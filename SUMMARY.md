@@ -1,17 +1,15 @@
 # Git Curriculum
 
 * [Using Git](using_git.md)
-  * [Installing the prerequisites](installing_the_git_prerequisites.md)
-    * On OSX
+  * [Installing on OSX](installing_on_osx.md)
     * [Installing Xcode](installing_xcode.md)
     * [Installing Homebrew](installing_homebrew.md)
-    * On Ubuntu
   * [Install and configure Git](install_and_configure_git.md)
   * [Repositories - local and remote](repositories_local_and_remote.md)
   * [One workflow to rule them all](one_workflow_to_rule_them_all.md)
     * [Git init](git_init.md)
     * [Git add](git_add.md)
-    * [Git commit](git_commit.md)
+    * [Git commit](git_commit_1.md)
     * [Git checkout](git_checkout.md)
     * [Git branch](git_branch.md)
     * [Git fetch](git_fetch.md)

@@ -1,10 +1,6 @@
 {
-  "plugins"       : ["richquotes"]
+  "plugins"       : []
   ,"pluginsConfig":
   {
-    "richquotes" :
-    {
-      "todos" : true
-    }
   }
 }

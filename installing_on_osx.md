@@ -1,4 +1,4 @@
-# Installing the prerequisites
+# Installing on OSX
 
 There are some prerequisites that need taking care of first. One of these prerequisites is the Xcode Command Line Tools. To ensure they are installed open your Terminal app (on OSX use command-space and then type 'terminal' and hit enter)
 
