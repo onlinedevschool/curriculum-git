@@ -1,0 +1,26 @@
+# Git Curriculum
+
+* [Using Git](using_git.md)
+  * [Installing the prerequisites](installing_the_git_prerequisites.md)
+    * On OSX
+    * [Installing Xcode](installing_xcode.md)
+    * [Installing Homebrew](installing_homebrew.md)
+    * On Ubuntu
+  * [Install and configure Git](install_and_configure_git.md)
+  * [Repositories - local and remote](repositories_local_and_remote.md)
+  * [One workflow to rule them all](one_workflow_to_rule_them_all.md)
+    * [Git init](git_init.md)
+    * [Git add](git_add.md)
+    * [Git commit](git_commit.md)
+    * [Git checkout](git_checkout.md)
+    * [Git branch](git_branch.md)
+    * [Git fetch](git_fetch.md)
+    * [Git reset](git_reset.md)
+    * [Git rebase](git_commit.md)
+    * [Git push](git_push.md)
+  * [Resets vs Merges](resets_vs_merges.md)
+* [Using Github](using_github.md)
+  * [Pull request workflow](pull_request_workflow.md)
+    * [Push up your code](push_up_your_code.md)
+    * [Create the pull request](create_the_pull_request)
+    * [Your next steps](your_next_steps.md)
