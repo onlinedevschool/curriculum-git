@@ -1,5 +1,2 @@
 #!/bin/sh
-gitbook build
-git add .
-git commit -m'rebuilt book'
 git push origin `git subtree split --prefix _book master`:gh-pages --force
